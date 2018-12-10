@@ -1,12 +1,12 @@
 # Parallel-Programming-in-Java
-An introductory course of  parallel Programming in Java by Rice university in Coursera 
+An introductory course of  Parallel Programming in Java by Rice university in Coursera 
 
 Where I've learnt the follwing skills:
-• Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, data races, and determinism
-•	Task parallelism using Java’s ForkJoin framework
-•	Functional parallelism using Java’s Future and Stream frameworks
-•	Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
-•	Dataflow parallelism using the Phaser framework and data-driven tasks
+1. Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, data races, and determinism
+2. Task parallelism using Java’s ForkJoin framework
+3. Functional parallelism using Java’s Future and Stream frameworks
+4. Loop-level parallelism with extensions for barriers and iteration grouping (chunking)
+5. Dataflow parallelism using the Phaser framework and data-driven tasks
 
 This repository contains 4 mini-project with above mentioned technology, where
 1. The First mini project implements __ReciprocalArraySum using RecursiveAction's in Java's Fork/Join Framework (Demo)__
