@@ -1,6 +1,9 @@
 # Parallel-Programming-in-Java
-An introductory course of  Parallel Programming in Java by Rice university in Coursera 
 
+## This is the first course in [Parallel, Concurrent, and Distributed Programming in 
+Java Specialization by Rice University in Coursera](https://www.coursera.org/specializations/pcdp)
+
+An introductory course of  Parallel Programming in Java by Rice university in Coursera 
 Where I've learnt the follwing skills:
 1. Theory of parallelism: computation graphs, work, span, ideal parallelism, parallel speedup, Amdahl's Law, data races, and determinism
 2. Task parallelism using Java’s ForkJoin framework
