@@ -20,4 +20,4 @@ This repository contains 4 mini-project with above mentioned technology, where
 
 ### [Accomplishment Certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/3.1.%20Parallel%20Programming%20in%20Java.pdf)
 
-# [Specialization Accomplishment Certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/3.4.%20Parallel%2C%20Concurrent%2C%20and%20Distributed%20Specialization.pdf)
+# [Specialization Accomplishment Certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/3.%20Specialization%20-%20Parallel%2C%20Concurrent%2C%20and%20Distributed%20Programming%20in%20Java.pdf)
